@@ -33,6 +33,10 @@ PRESENCE_PENALTY = 0.6
 
 MAX_CONTEXT_QUESTIONS = 10
 
+
+
+# dfghjk
+# hey this is a test
 def get_voice_input():
     """Get voice input from the user"""
     recognizer = sr.Recognizer()
